@@ -15,7 +15,7 @@
   
         -Open the project bearing the name Chapter-1-initial-architecture
    7. Access the "appsettings.Development.json" file.
-   8. 
+      
   <img width="960" alt="Untitled2" src="https://github.com/marijaspasova00/C-ExapleRepo_Marija/assets/119892747/8cfba917-8bdc-47e0-a760-c9ef01a0b00e">
   
         -Modify the following section:
